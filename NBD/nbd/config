@@ -1,0 +1,7 @@
+[generic]
+	max_threads = 32
+[export]
+	exportname = /dev/nvme0n1
+	port = 10809
+	authfile =
+	readonly = 0
